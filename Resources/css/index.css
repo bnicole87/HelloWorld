@@ -1,25 +1,22 @@
-body{
+body {
   font-family: Arial, sans-serif;
-background-color: cornflowerblue;
+  background-color: cornflowerblue;
 }
 
-
 h1 {
-  color: blue
+  color: blue;
   text-align: center;
 }
 
-.myname{
-	color: purple;
-	text-align: center;
+.myname {
+  color: purple;
+text-align: center;
 }
 
-
-p, 
+p,
 li {
   font-size: 15px;
 }
-
 
 a {
   text-decoration: none;
