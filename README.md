@@ -1,4 +1,5 @@
 # Hello World
+My name is Brandy, I am trying to teach myself how to code.
 
 ## Git Commands to Remember
 - `git status`
